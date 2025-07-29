@@ -2,12 +2,11 @@
 <span style="
   font-size: 2rem;
   font-weight: bold;
-  background: linear-gradient(to right, #ff8a00, #e52e71);
+  background: linear-gradient(to right, red, blue);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
 ">Vicente Cosmo</span>, and be WELCOME to my Universe! </h1>
-##
 
 
 <div style="display: inline_block">
