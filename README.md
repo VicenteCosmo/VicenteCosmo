@@ -9,8 +9,8 @@
 ">Vicente Cosmo</span>, and be WELCOME to my Universe! </h1>
 
 <div style="
-  display: flex;
-  flex-direction: row;
+  display: flex !important;
+  flex-direction: row !important;
   gap: 20px;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@
   flex-wrap: nowrap;
 ">
   <!-- GitHub Stats -->
-  <div style="flex: 1;">
+  <div style="">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=VicenteCosmo&show_icons=true&theme=tokyonight" 
       alt="VicenteCosmo's GitHub stats"
