@@ -1,4 +1,4 @@
-## <h1> 💻 Hello, I am 
+<h1> 💻 Hello, I am 
 <span style="
   font-size: 2rem;
   font-weight: bold;
@@ -7,6 +7,7 @@
   background-clip: text;
   color: transparent;
 ">Vicente Cosmo</span>, and be WELCOME to my Universe! </h1>
+##
 
 
 <div style="display: inline_block">
