@@ -9,7 +9,10 @@
 ">Vicente Cosmo</span>, and be WELCOME to my Universe! </h1>
 
 ![VicenteCosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicenteCosmo&show_icons=true&theme=tokyonight)
-
+<img 
+  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" 
+  alt="Coding animation"
+>
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
