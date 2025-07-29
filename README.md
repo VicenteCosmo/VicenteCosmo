@@ -9,7 +9,7 @@
 ">Vicente Cosmo</span>, and be WELCOME to my Universe! </h1>
 
 <div style="
-  display: flex !important;
+  display: inline-flex !important;
   flex-direction: row !important;
   gap: 20px;
   justify-content: center;
@@ -24,30 +24,19 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=VicenteCosmo&show_icons=true&theme=tokyonight" 
       alt="VicenteCosmo's GitHub stats"
-      style="width: 100%; height: auto; border-radius: 8px; min-width: 300px;"
     >
   </div>
   
   <!-- Coding GIF -->
-  <div style="flex: 1;">
+  <div style="">
     <img 
       src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" 
       alt="Coding animation"
-      style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); min-width: 300px;"
+      
     >
   </div>
 </div>
 
-<style>
-  @media (max-width: 768px) {
-    div {
-      flex-direction: column !important;
-    }
-    div > div {
-      width: 100% !important;
-    }
-  }
-</style>
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
