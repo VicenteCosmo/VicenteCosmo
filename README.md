@@ -8,7 +8,7 @@
   color: transparent;
 ">Vicente Cosmo</span>, and be WELCOME to my Universe! </h1>
 
-##![VicenteCosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicenteCosmo&hide=contribs,prs)
+![VicenteCosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicenteCosmo&show_icons=true&theme=radical)
 
 
 <div style="display: inline_block">
