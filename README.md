@@ -8,8 +8,34 @@
   color: transparent;
 ">Vicente Cosmo</span>, and be WELCOME to my Universe! </h1>
 
-![VicenteCosmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VicenteCosmo&show_icons=true&theme=tokyonight)
-<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" alt="Coding animation" >
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 20px;
+">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; min-width: 300px; max-width: 100%;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=VicenteCosmo&show_icons=true&theme=tokyonight" 
+      alt="VicenteCosmo's GitHub stats"
+      style="width: 100%; height: auto; border-radius: 8px;"
+    >
+  </div>
+  
+  <!-- Coding GIF -->
+  <div style="flex: 1; min-width: 300px; max-width: 100%;">
+    <img 
+      src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" 
+      alt="Coding animation"
+      style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"
+    >
+  </div>
+</div>
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
