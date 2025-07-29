@@ -1,7 +1,12 @@
 ## <h1> 💻 Hello, I am 
-<span class="text-4xl font-bold text-stroke-2 text-stroke-blue-500 text-fill-transparent bg-gradient-to-r from-purple-600 to-blue-500">
-          Vicente Cosmo
-</span> be welcome! </h1>
+<span style="
+  font-size: 2rem;
+  font-weight: bold;
+  background: linear-gradient(to right, #ff8a00, #e52e71);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+">Vicente Cosmo</span>, and be WELCOME to my Universe! </h1>
 
 
 <div style="display: inline_block">
