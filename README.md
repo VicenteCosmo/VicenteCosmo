@@ -8,6 +8,31 @@
   color: transparent;
 ">Vicente Cosmo</span>, and be WELCOME to my Universe! </h1>
 
+```ts
+const developerProfile: {
+    name: string;
+    title: string;
+    education: string;
+    hardSkills: string[];
+    softSkills: string[];
+} = {
+    name: "Vicente Cosmo",
+    title: "Full Stack Developer",
+    education: "ITEL - Electronics & Telecommunications Institute",
+    hardSkills: [
+        "Full Stack Developer",
+        "Web Developer ",
+        "Mobile Developer "
+    ],
+    softSkills: [
+        "Critical Thinking",
+        "Selling & Communication ",
+        "Team Work & Adaptability ",
+        "Problem Solving"
+    ]
+};
+```
+
 <div> <br>
   <img 
       src="https://github-readme-stats.vercel.app/api?username=VicenteCosmo&show_icons=true&theme=tokyonight" 
